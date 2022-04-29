@@ -1,8 +1,8 @@
 #### Version 0.0.4
 
-Initial release of ZTM Blog Post Search Extension
+Initial release of SOMER REALLY COOL Extension
 
-**Enjoy Reading ZTM Blog Posts!**
+**Enjoy This Extension**
 
 #### Notes:
 
